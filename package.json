@@ -1,5 +1,5 @@
 {
-  "name": "express-handlebars-exercise",
+  "name": "web-express-handlebars",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,11 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phan-Tran-Khanh/web-express-handlebars.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phan-Tran-Khanh/web-express-handlebars/issues"
+  },
+  "homepage": "https://github.com/Phan-Tran-Khanh/web-express-handlebars#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "express-handlebars": "^5.3.4"
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7"
   }
 }
